@@ -1,0 +1,1 @@
+2026/02/10 14:53:37 [error] 17064#4120: *3055 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:10002", host: "daly-college-indore.local", referrer: "http://daly-college-indore.local/contact@daly.org"
